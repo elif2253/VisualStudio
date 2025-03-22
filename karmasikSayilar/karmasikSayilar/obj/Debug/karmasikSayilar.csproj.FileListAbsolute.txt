@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\karmasikSayilar\karmasikSayilar\obj\Debug\karmasikSayilar.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\karmasikSayilar\karmasikSayilar\obj\Debug\karmasikSayilar.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\karmasikSayilar\karmasikSayilar\bin\Debug\karmasikSayilar.exe.config
+C:\Users\Hp\source\repos\karmasikSayilar\karmasikSayilar\bin\Debug\karmasikSayilar.exe
+C:\Users\Hp\source\repos\karmasikSayilar\karmasikSayilar\bin\Debug\karmasikSayilar.pdb
+C:\Users\Hp\source\repos\karmasikSayilar\karmasikSayilar\obj\Debug\karmasikSayilar.exe
+C:\Users\Hp\source\repos\karmasikSayilar\karmasikSayilar\obj\Debug\karmasikSayilar.pdb

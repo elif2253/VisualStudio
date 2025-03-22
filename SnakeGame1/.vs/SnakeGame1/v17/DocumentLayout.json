@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\SnakeGame1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C717006-F9A5-4574-921F-5A9E511400CF}|SnakeGame1\\SnakeGame1.csproj|C:\\Users\\Hp\\source\\repos\\SnakeGame1\\snakegame1\\food1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C717006-F9A5-4574-921F-5A9E511400CF}|SnakeGame1\\SnakeGame1.csproj|solutionrelative:snakegame1\\food1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C717006-F9A5-4574-921F-5A9E511400CF}|SnakeGame1\\SnakeGame1.csproj|c:\\users\\hp\\source\\repos\\snakegame1\\snakegame1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C717006-F9A5-4574-921F-5A9E511400CF}|SnakeGame1\\SnakeGame1.csproj|solutionrelative:snakegame1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C717006-F9A5-4574-921F-5A9E511400CF}|SnakeGame1\\SnakeGame1.csproj|C:\\Users\\Hp\\source\\repos\\SnakeGame1\\snakegame1\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C717006-F9A5-4574-921F-5A9E511400CF}|SnakeGame1\\SnakeGame1.csproj|solutionrelative:snakegame1\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SnakeGame1\\SnakeGame1\\Snake.cs",
+              "RelativeDocumentMoniker": "SnakeGame1\\Snake.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SnakeGame1\\SnakeGame1\\Snake.cs",
+              "RelativeToolTip": "SnakeGame1\\Snake.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-05T10:19:23.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Food1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SnakeGame1\\SnakeGame1\\Food1.cs",
+              "RelativeDocumentMoniker": "SnakeGame1\\Food1.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SnakeGame1\\SnakeGame1\\Food1.cs*",
+              "RelativeToolTip": "SnakeGame1\\Food1.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-05T10:18:57.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\SnakeGame1\\SnakeGame1\\Program.cs",
+              "RelativeDocumentMoniker": "SnakeGame1\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\SnakeGame1\\SnakeGame1\\Program.cs",
+              "RelativeToolTip": "SnakeGame1\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-05T10:18:03.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
